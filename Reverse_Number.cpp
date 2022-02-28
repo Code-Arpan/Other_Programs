@@ -13,4 +13,5 @@ int main(){
         n/=10;
     }
     cout<<"Reversed Number: "<<rev<<endl;
+    return 0;
 }
